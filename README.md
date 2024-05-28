@@ -1,3 +1,5 @@
+THIS PROJECT IS DEPRECATED. SEE <link>https://github.com/biryeongtrain/Esekai-Again</link>
+
 ESeaki : Server-Side RPG Framework
 =============
 지옥(군대) 에서 개발하는 Server-Side RPG Framework 입니다.
